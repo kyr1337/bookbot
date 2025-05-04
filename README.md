@@ -1,2 +1,3 @@
 # bookbot
-bot that count words
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
